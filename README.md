@@ -29,9 +29,9 @@ All files are saved on the 'Portfolio' repository.
 
 All activities related to the creation, manipulation, and display of Agents are included in a single module called final_module.py. The Agent class has been defined on a module titled agentframework.py. 
 
-The gui.py file creates a basic Graphic User Interphase
+The gui.py file creates a basic Graphic User Interphase.
 
-The web_scraping.py file scrapes a webpage using the beautiful soup library and displays 'a' and 'y' data from a table on the webpage.
+The web_scraping.py file scrapes a webpage using the beautiful soup library and displays 'x' and 'y' data from a table on the webpage.
 
 The LICENSE and README file have also been included in the same repository. 
 
