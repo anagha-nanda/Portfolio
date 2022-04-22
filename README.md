@@ -44,6 +44,8 @@ The LICENSE and README file have also been included in the same repository.
 
 They key challenge in producing this software was to incorporate all the elements of the activities of the module in a clean and precise manner with a logical flow. 
 
+The code has been tested multiple times at each menu option. Some of the challenges that arose are given below:
+
 The testing of the GUI was not possible due to the presence of a bug. The iPython console displayed 'Trying to connect to kernel' and then freeze when the backend was set to Tkinter. Subsequently, a GUI was not built to interact with the user. The software interacts with the user through the iPython console. 
 
 The matplotlib functions was observed to only execute if the program has been terminated. It was not possible to display the data and then go back to the program. Resources such as [1], and [2] were consulted to mitigate this problem. However, no clear solution to the issue at hand was available.
