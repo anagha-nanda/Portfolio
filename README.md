@@ -27,7 +27,7 @@ The user is then allowed to manipulate the agents. A menu is displayed and the u
 ## Contents 
 All files are saved on the 'Portfolio' repository. 
 
-All activities related to the creation, manipulation, and display of Agents are included in a single module called final_module.py. The Agent class has been defined on a module titled agentframework.py. 
+All activities related to the creation, manipulation, and display of Agents are included in a single module called final_module2.py. The Agent class has been defined on a module titled agentframework3.py. 
 
 The gui.py file creates a basic Graphic User Interphase.
 
